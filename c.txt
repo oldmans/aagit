@@ -1,5 +1,6 @@
-﻿这是在分支上建立的东西1111111
+这是在分支上建立的东西1111111
 wo yao kankan diff
 zhe ci yao shiyong reset le
 laozi cao ni ma zai master
 我草拟注重哟
+1111
