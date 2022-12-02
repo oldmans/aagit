@@ -1,7 +1,10 @@
 this is write on master
 this is write on master 2
+this is write on feature 1
+0000
 this is write on feature 12222
 333333
 888
 dffsffffffffff
 merge
+no-ff
