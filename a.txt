@@ -7,3 +7,4 @@ this is write on feature 12222
 888
 dffsffffffffff
 merge
+no-ff
